@@ -1,0 +1,1 @@
+The main difference between the two is that while both are used to store information, cookies are only stored on the client-side machine, while sessions are stored both on the client-side machine and the server.
